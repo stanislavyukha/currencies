@@ -78,7 +78,7 @@ function sendJSON() {
 //         const currencies = xhr.responseText;
 //         const myList = document.getElementById("list");
 //         let newLi = document.createElement('li');
-//         newLi.textContent = 'валюта: ' + currencies[i].ccy;
+//         newLi.textContent = 'валюта: ' + currencies[0].ccy;
 //         myList.appendChild(newLi);
 
 //     }
